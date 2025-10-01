@@ -1,0 +1,1 @@
+Precognitive mages are wizards from the [[Azorius Senate]] on [[Ravnica]], who can gain foreknowledge of a future event. They experience their gift as a series of runes hovering in midair.

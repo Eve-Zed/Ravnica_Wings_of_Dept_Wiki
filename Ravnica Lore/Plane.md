@@ -1,0 +1,3 @@
+A **plane** is a self-contained world or universe of any size found within the Multiverse.
+
+Most planes are spheres with an atmosphere and one or more suns and moons; they resemble planets. But there is no law of physics common to all planes of the Multiverse. Planes can be infinite expanses of matter, tiny specks of empty space, or logic-defying inversions of normal reality. A plane can contain an entire, sprawling universe or nothing at all.

@@ -1,0 +1,320 @@
+{
+  "main": {
+    "id": "2e3cf599734c1b6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "facc69aabc239d4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "926cc65d6c699457",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "_Attachments/Pasted image 20251001141314.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251001141314"
+            }
+          },
+          {
+            "id": "e0f8e37f7261520b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ravnica Lore/Guilds/Orzhov Syndicate.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Orzhov Syndicate"
+            }
+          },
+          {
+            "id": "df07ba659094c0fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Species/Homunculus.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homunculus"
+            }
+          },
+          {
+            "id": "79bd773b514448a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ravnica Lore/Guilds/Parun.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": false
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Parun"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "2cbc001eeb368388",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3ac362b5710451a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ravnica Lore/Guilds/House Dimir.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "House Dimir"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "11dc91625beca6ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad04b1e292af71a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67a0f6916f2031a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8d813e1b292861f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e24ec7cc0fef9693",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eb7b98712af5038a",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb9fd8998b13c939",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cf72ea3f0df63f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ravnica Lore/Guilds/Orzhov Syndicate.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Orzhov Syndicate"
+            }
+          },
+          {
+            "id": "9e65cd703b4f704b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ravnica Lore/Guilds/Orzhov Syndicate.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Orzhov Syndicate"
+            }
+          },
+          {
+            "id": "45898d0961e819ed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ef06b8450c9155c0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ravnica Lore/Guilds/Orzhov Syndicate.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Orzhov Syndicate"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e0f8e37f7261520b",
+  "lastOpenFiles": [
+    "Ravnica_Wings_of_Dept_Wiki",
+    "_Attachments/Pasted image 20251001125957.png",
+    "_Attachments/Pasted image 20251001141314.png",
+    "Characters/Agmand Sarv.md",
+    "Characters/Azor I.md",
+    "Characters/Etrata.md",
+    "Characters/Isperia.md",
+    "Characters/Jace Beleren.md",
+    "_Attachments/Pasted image 20251001141135.png",
+    "Characters/Lavinia.md",
+    "Characters/Lazav.md",
+    "Characters/Leonos II.md",
+    "Characters/Obzedat.md",
+    "Species/Shapeshifter.md",
+    "Characters/Szadek.md",
+    "Characters/Vosk.md",
+    "Characters/Uzana.md",
+    "Locations/Duskmantle.md",
+    "Locations/New Prahv.md",
+    "Locations/Nightveil.md",
+    "_Attachments/Pasted image 20251001140216.png",
+    "Locations/Prahv.md",
+    "Ravnica Lore/Guilds/Azorius Senate.md",
+    "Ravnica Lore/Guilds/House Dimir.md",
+    "Ravnica Lore/Guilds/Orzhov Syndicate.md",
+    "Ravnica Lore/Guilds/Parun.md",
+    "Ravnica Lore/Guilds/Ravnican guilds.md",
+    "Ravnica Lore/Guilds/Selesnya Conclave.md",
+    "Ravnica Lore/Guildpact.md",
+    "Ravnica Lore/Hieromancer.md",
+    "_Attachments/Pasted image 20251001135229.png",
+    "_Attachments/Pasted image 20251001134744.png",
+    "_Attachments/Pasted image 20251001134535.png",
+    "_Attachments/Pasted image 20251001133323.png",
+    "_Attachments/Pasted image 20251001132735.png",
+    "_Attachments/Pasted image 20251001132403.png",
+    "_Images",
+    "_Utilities",
+    "Locations",
+    "Species",
+    "_Attachments",
+    "Characters",
+    "Ravnica Lore/Guilds",
+    "Ravnica Lore"
+  ]
+}
