@@ -1,0 +1,1 @@
+Fleshmages are [[Orzhov Syndicate|Orzhov]] mages who craft [[Thrull|thrulls]] from the worthless flesh left behind when a [[spirit]] is created.

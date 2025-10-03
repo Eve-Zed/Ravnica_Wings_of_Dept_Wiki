@@ -95,7 +95,13 @@ Because of its authoritarian, overreaching grasp, the Azorius Senate's relations
 
 # NPCs
 - [[Agmand Sarv]] - [[Human]] - Arbiter of the Lyev Column, Hussar Commander
+- [[Bruvac]] - [[Human]] - Judge
+- [[Geetra]] - [[Human]] - [[Precognitive Mage]]
+- [[Isperia]] - [[Sphinx]] - Grand Arbiter, Guildmaster
 - [[Lavinia]] - [[Human]] - Guild Champion, Arrester, Steward of the [[Guildpact]]
 - [[Leonos II]] - [[Human]] - Arbiter of the Sova Column, former guildmaster
 - [[Uzana]] - [[Vedalken]] - Arbiter of the Jelenn Column
+# Players
+- [[Laucian]] - [[Half-Elf]] - Enchanter Wizard, [[Lawmage]]
+- [[Valanya Tindóme]] - [[Tiefling]] - Twilight Domain Cleric, [[Lawmage]]
 

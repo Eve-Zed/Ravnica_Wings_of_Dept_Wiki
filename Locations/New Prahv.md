@@ -4,6 +4,9 @@ tags:
   - Guildhall
   - Azorius
   - SecondPrecinct
+  - TenthDistrict
+aliases:
+  - Azorius Guildhall
 ---
 New Prahv, at the other end of the same district, consists of three towering, three-sided columns that form a circular courtyard. The towers of New Prahv are the tallest structures on the ground in all of [[Ravnica]]. The three towers literalize the guild's structure: each houses the operations of one of the three Columns ([[Azorius Senate#The Sova Column|Sova]], [[Azorius Senate#The Jelenn Column|Jelenn]], and [[Azorius Senate#The Lyev Column|Lyev]]). The three titanic towers are flanked by the domes and spires of lesser buildings. The borders of the enormous compound are marked by tall, spiked fences.
 

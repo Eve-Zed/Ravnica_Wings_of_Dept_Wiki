@@ -1,9 +1,9 @@
 ---
 tags:
   - Location
-  - Guildhall
   - Azorius
   - SecondPrecinct
+  - TenthDistrict
 aliases:
   - Old Prahv
 ---

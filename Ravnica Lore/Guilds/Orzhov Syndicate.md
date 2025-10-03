@@ -42,9 +42,9 @@ The Azorius are the greatest threat to Orzhov's operations. In times past, the O
 
 So far, the syndicate's most effective tactic has been to increase the layers of separation between the day-to-day criminal operations of the guild and the leadership, ensuring that no matter how many street-level thugs and syndics are apprehended to fill the Azorius prisons, the guild's leadership remains intact. Contact between the oligarchs and lower-ranking members of the guild is increasingly rare in this situation, and even the pontiffs find it ever more difficult to arrange a hearing with their superiors.
 # Orzhov Members
-The Orzhov Syndicate attracts and entraps beings of all kinds, from lowly [[Bat|bats]] and manufactured [[Thrull|thrulls]] to brutal [[Giant|giants]] and exalted [[Angel|angels]]. Orzhov [[Gargoyles|gargoyles]], animated by magic that manifests as a green, smoky glow in their eyes and gaping mouths, keep watch over banks and basilicas, and bloodthirsty [[Vampire|vampires]] lurk in the vaults and crypts below.
+The Orzhov Syndicate attracts and entraps beings of all kinds, from lowly [[Bat|bats]] and manufactured [[Thrull|thrulls]] to brutal [[Giant|giants]] and exalted [[Angel|angels]]. Orzhov [[Gargoyle|gargoyles]], animated by magic that manifests as a green, smoky glow in their eyes and gaping mouths, keep watch over banks and basilicas, and bloodthirsty [[Vampire|vampires]] lurk in the vaults and crypts below.
 ## Joining the Orzhov Syndicate
-At the beginning of your association with the Orzhov, you are regarded as a borrower. Whether you are the wealthy scion of an oligarch family or a penniless citizen deep in debt to the guild, your status is functionally equivalent: you owe everything you have, even your life, to the Orzhov. Your only hope of improving your status is through your service to the guild. As you acquire renown, you can rise above this debased position in the guild hierarchy. Choose one of three parallel tracks of advancement, depending on your capabilities: advokist, enforcer, or priest.
+At the beginning of your association with the Orzhov, you are regarded as a borrower. Whether you are the wealthy scion of an oligarch family or a penniless citizen deep in debt to the guild, your status is functionally equivalent: you owe everything you have, even your life, to the Orzhov. Your only hope of improving your status is through your service to the guild. As you acquire renown, you can rise above this debased position in the guild hierarchy.
 ## [[Lawmage|Advokist]]
 If you are a spellcaster, you can aspire to be an advokist—one of the syndicate's lawyers, with duties that include overseeing contracts, representing clients in [[Azorius Senate|Azorius]] courts, and prosecuting those who fail to pay their debts.
 
@@ -55,3 +55,39 @@ Enforcers guard Orzhov property and protect the guild's bureaucrats, administrat
 If you are cleric, you can aspire to serve an important function in the Orzhov Syndicate, which continues to maintain the outward appearance of a religious institution. Once you earn a position of respect in the syndicate, you will hear confessions and dole out penance (which is always of a financial nature). Your "calling" centers on collecting monetary tithes and offerings in a wide range of forms. Your spellcasting ability comes from the collective power of the spirits that rule the guild, not from a god.
 
 You might even be a most unusual priest for the syndicate—one who thinks the guild's wealth should be used to ease the suffering of the downtrodden. You might also believe in the inspiration and delight that beautiful pageantry can offer to the world. If you seek to distribute wealth and share beauty, rather than hoard them, you must do so discreetly to avoid the ire of the [[Obzedat]].
+# Enemies and Allies
+A syndicate built on a foundation of exploitation and extortion can't rely on alliances. The Orzhov appreciate certain aspects of other guilds' work and missions, but they treat other guilds as resources to be plundered. In general, the Orzhov view guilds that promote order and stability (Azorius, Boros, and Selesnya) more kindly than guilds that sow chaos and destruction (such as Golgari and Rakdos).
+
+Sometimes adherence to order can get in the way of an efficient crime operation, though, and that's when the Orzhov part ways with the other law-and-order guilds—especially the Azorius. Any guild that obstructs the Orzhov from amassing more wealth is an enemy, whether the disruption comes from horning in on Orzhov operations or enforcing laws against racketeering.
+
+The best way to secure individual allies from other guilds is to make them owe you something. Borrowers seldom make friendly or especially loyal allies, but they can be useful pawns. You might form a genuine alliance with members of other guilds if you share a common enemy: the overreaching Azorius or Boros, the spies of the Dimir or assassins of the Golgari, or the rampages and excesses of the Gruul and Rakdos. Alternatively, you might team up with members of a chaotic guild to bring down an opponent that is causing too much trouble for Orzhov operations.
+## The Orzhov View on Other Guilds
+In the eyes of the Orzhov Syndicate, the other guilds primarily represent either opportunities for exploitation or dangerous threats to its way of life.
+
+**[[Azorius Senate|Azorius]]**. "Their new laws challenge everything we know [[Ravnica]] stands for. If they will not protect the people, then we will do it for them."
+
+**[[Boros Legion|Boros]]**. "Though their structure is reasonable, they are naive in their outlook on justice. What glory is there in risking one's life when work continues in the afterlife?"
+
+**[[House Dimir|Dimir]]**. "It's hard to begrudge them their love of secrets. As long as they stay out of our business, we will leave them be."
+
+**[[Golgari Swarm|Golgari]]**. "Admirably resourceful and elegant, but tragically unhygienic. The swarmers may persist, as long as they don't try to force their aesthetic sensibilities on us."
+
+**[[Gruul Clans|Gruul]]**. "They know nothing of order and dignity, and therefore they serve little purpose as an organization."
+
+**[[Izzet League|Izzet]]**. "Combative and obnoxious. Their allegiance lies with no one, and their naiveté isn't worth our time."
+
+**[[Cult of Rakdos|Rakdos]]**. "A necessary source of creativity and satire. Wit is a dangerous weapon, and their critiques speak to the people more than fear and surveillance ever will."
+
+**[[Selesnya Conclave|Selesnya]]**. "The Selesnya are idealistic fools. Looking toward nature ignores the problems at hand in the civilised world."
+
+**[[Simic Combine|Simic]]**. "Their preoccupation with life disregards the might that death can provide."
+# NPCs
+- [[Armin Morov]] - [[Human]] - Head of the Church, pontiff
+- [[Grandfather Karlov]] - [[Spirit|Ghost]] - Head of the [[Obzedat]]
+- [[Maladola]] - [[Angel]] - Chief warrior-executioner
+- [[Slavomir Zoltan]] - [[Vampire]] - Tithe Master
+- [[Teysa Karlov]] - [[Human]] - former Grand Envoy, imprisoned
+- [[Tomik Vrona]] - [[Human]] - Chief [[Lawmage|advokist]]
+- [[Uncle Karlov]] - [[Spirit|Ghost]] - Member of the [[Obzedat]]
+# Players
+- [[Azriel]] - [[Aasimar]] - Clockwork Sorcerer, Engineer

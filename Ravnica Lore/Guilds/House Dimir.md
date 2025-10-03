@@ -70,5 +70,6 @@ To House Dimir, every other guild is a potential source of information, its memb
 
 # NPCs
 - [[Etrata]] - [[Vampire]] - Guild Champion, Assassin
--  [[Vosk]] - [[Vampire]] - Guild Champion, Detective
+- [[Lazav]] - [[Shapeshifter]] - Guildmaster
+- [[Vosk]] - [[Vampire]] - Guild Champion, Detective
 
