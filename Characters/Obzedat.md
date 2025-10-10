@@ -10,6 +10,10 @@ aliases:
   - Orzhov Guildmaster
   - Orzhov Parun
   - The Deathless
+Species: Spirit
+Guild: Orzhov
+Title: Guildmaster, Parun
+Status: Undead
 ---
 The ghosts who make up the Obzedat are traditionally called patriarchs, though they can be male or female. They are the oldest, wealthiest, and most influential oligarchs of the [[Orzhov Syndicate]]. They have been dead for centuries, but they refuse to let go of the fortunes they amassed in life. Addicted to power and prestige, these patriarchs continue to dominate the guild and accumulate even larger fortunes.
 

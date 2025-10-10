@@ -45,13 +45,13 @@ So far, the syndicate's most effective tactic has been to increase the layers of
 The Orzhov Syndicate attracts and entraps beings of all kinds, from lowly [[Bat|bats]] and manufactured [[Thrull|thrulls]] to brutal [[Giant|giants]] and exalted [[Angel|angels]]. Orzhov [[Gargoyle|gargoyles]], animated by magic that manifests as a green, smoky glow in their eyes and gaping mouths, keep watch over banks and basilicas, and bloodthirsty [[Vampire|vampires]] lurk in the vaults and crypts below.
 ## Joining the Orzhov Syndicate
 At the beginning of your association with the Orzhov, you are regarded as a borrower. Whether you are the wealthy scion of an oligarch family or a penniless citizen deep in debt to the guild, your status is functionally equivalent: you owe everything you have, even your life, to the Orzhov. Your only hope of improving your status is through your service to the guild. As you acquire renown, you can rise above this debased position in the guild hierarchy.
-## [[Lawmage|Advokist]]
+### [[Lawmage|Advokist]]
 If you are a spellcaster, you can aspire to be an advokist—one of the syndicate's lawyers, with duties that include overseeing contracts, representing clients in [[Azorius Senate|Azorius]] courts, and prosecuting those who fail to pay their debts.
 
 Many advokists draw on the power of law magic to enforce regulations and contracts to the advantage of the guild. They use their magic to draw out the truth from debtors and those who dare to break their contracts with the guild, to ensure that petitioners approach with the proper humility, and to punish those who offend them or violate their contracts. Some advokists also deal in encrypting texts, warding vaults and secret meeting rooms, fortifying structures, and cloaking important personages in magical protections.
-## Enforcer
+### Enforcer
 Enforcers guard Orzhov property and protect the guild's bureaucrats, administrators, and aristocrats. You might be the muscle who collects protection money and debt payments from the syndicate's clients, or an assassin (euphemistically called a euthanist) who brings speedy ends to lives deemed to have gone on too long. 
-## Priest
+### Priest
 If you are cleric, you can aspire to serve an important function in the Orzhov Syndicate, which continues to maintain the outward appearance of a religious institution. Once you earn a position of respect in the syndicate, you will hear confessions and dole out penance (which is always of a financial nature). Your "calling" centers on collecting monetary tithes and offerings in a wide range of forms. Your spellcasting ability comes from the collective power of the spirits that rule the guild, not from a god.
 
 You might even be a most unusual priest for the syndicate—one who thinks the guild's wealth should be used to ease the suffering of the downtrodden. You might also believe in the inspiration and delight that beautiful pageantry can offer to the world. If you seek to distribute wealth and share beauty, rather than hoard them, you must do so discreetly to avoid the ire of the [[Obzedat]].

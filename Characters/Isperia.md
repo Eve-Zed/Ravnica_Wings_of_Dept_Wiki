@@ -8,6 +8,10 @@ aliases:
   - Grand Arbiter Isperia
   - Azorius guildmaster
   - Supreme Judge Isperia
+Species: Sphinx
+Guild: Azorius
+Title: Guildmaster
+Status: Alive
 ---
 The [[Sphinx]] **Grand Arbiter Isperia** is the current guildmaster of [[Azorius Senate|the senate]] she was the former guild champion and judge but was recently convinced to take the role from former guild leader [[Leonos II]].
 ![[Pasted image 20250928140837.png]]

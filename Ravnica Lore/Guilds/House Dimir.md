@@ -36,9 +36,9 @@ You began your career in House Dimir as part of the legion of shopkeepers, libra
 In your guild role, you engage in surveillance, theft, sabotage, infiltration, and other kinds of espionage. You work in a pocket or sleeper cell, unaware of the identities of most other agents or the guild's leadership.
 
 If you are a spellcaster, you have the skills needed to join the ranks of the most feared spellcasters on [[Ravnica]]: House Dimir's mind mages. Your basic work and role is the same as any other spy's, but you can learn to pull thoughts and memories from a person's mind, use a target's own thoughts against them, attack your foes' psyches directly to create delusions, or scour enemy minds clean.
-## Mind Mage
+### Mind Mage
 Dimir mind mages are among the most feared spellcasters in Ravnica, thanks in large part to the aura of mystery that shrouds them and their work. Their ability to read and alter memories commands respect from the other members of House Dimir and makes them useful in the full spectrum of the guild's activities. Many mind mages lead cells of their own.
-## Thought Spy
+### Thought Spy
 Thought spies form the backbone of House Dimir's covert operations. They are trained in stealth and infiltration, tactics that they supplement with rigorously developed mental abilities. To ensure that no secrets slip through Dimir's fingers, they infiltrate rival guilds. In addition to traditional means of gathering intelligence, thought spies use their magic to spy on the thoughts of their targets.
 # Enemies and Allies
 It's hard for a guild built on stealth and secrecy to maintain a positive relationship with any other guild. All [[Ravnican guilds|guilds]] are monitored with suspicion, and they assessed for their current and prospective levels of threat, as well as for their usefulness to House Dimir's schemes. Each cell may foster its own relationships with the other guilds, but it ultimately defers to Dimir's enigmatic leaders to steer overarching strategy.

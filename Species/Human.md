@@ -12,7 +12,5 @@ Not one of the [[Parun|paruns]] of the [[Ravnican guilds|ten guilds]] was human,
 The humans of [[Ravnica]] are no less physically diverse than those of other worlds. Similarly, they are varied in their inclinations: they alone are found in every guild.
 ![[Pasted image 20251001133323.png]]
 # List of Humans
-- [[Agmand Sarv]] - [[Azorius Senate|Azorius]] Arbiter of the Lyev Column, Hussar Commander - alive
-- [[Jace Beleren]] - [[Planeswalker]], living [[Guildpact]] - missing, assumed alive
-- [[Lavinia]] - [[Azorius Senate|Azorius]] guild champion, Steward of the [[Jace Beleren|living Guildpact]] - alive
-- [[Leonos II]] - [[Azorius Senate|Azorius]] Arbiter of the Sova column, former guildmaster - alive
+![[Ravnica Base.base#List of Humans]]
+

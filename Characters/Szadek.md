@@ -6,6 +6,10 @@ tags:
   - NPC
 aliases:
   - Dimir parun
+Species: Vampire
+Guild: Dimir
+Title: Parun
+Status: Dead
 ---
 The [[Vampire|vampire]] known as Szadek was the [[Parun|parun]] of [[House Dimir]],
 

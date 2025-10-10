@@ -5,6 +5,10 @@ tags:
   - NPC
 aliases:
   - Baroness Karlov
+Species: Human
+Guild: Orzhov
+Title: Baroness, Advokist
+Status: Alive, Imprisoned
 ---
 The scion of one of the most respected [[Orzhov Syndicate|Orzhov]] families, House Karlov, Teysa was employed as a notable "[[Lawmage|advokist]]", or lawmage, with a name and reputation that preceded her until she was made a baroness of the [[Utvara Reclamation Zone]]. There, Teysa came into contact with [[Zomaj Hauc]], who had schemes to control [[Ravnica]]; but, with an assembled force of warriors recruited from various sources, including the [[Ravnican guilds]], as well as her wealth of experience, arcane knowledge, and magic that allowed her to control a [[Dragon|dragon]], she was influential in stopping Hauc and, in return, gained her the respect of the inhabitants of the area and consolidated her power and authority.
 

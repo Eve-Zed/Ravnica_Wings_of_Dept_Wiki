@@ -5,6 +5,10 @@ tags:
   - NPC
 aliases:
   - Karlov
+Species: Spirit
+Guild: Orzhov
+Title: Head of the Obzedat
+Status: Undead
 ---
 Grandfather Karlov was the greediest of the [[Orzhov Syndicate|Orzhov]] Oligarchs in life. As a ghost he is a member of the [[Obzedat]], the oligarchy that rules the Orzhov Syndicate. His house sigil is a serpentine ouroboros.
 

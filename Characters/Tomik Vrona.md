@@ -5,6 +5,10 @@ tags:
   - NPC
 aliases:
   - Chief Advokist
+Species: Human
+Guild: Orzhov
+Title: Chief Advokist
+Status: Alive
 ---
 Tomik Vrona is a law and security mage from [[Ravnica]]. He is chief [[Lawmage|advokist]] of the [[Orzhov Syndicate]], and the former apprentice of [[Teysa Karlov]].
 

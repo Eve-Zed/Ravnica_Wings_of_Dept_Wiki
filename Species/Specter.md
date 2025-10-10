@@ -18,5 +18,5 @@ The Nightveil specters are hooded, undead guardians that ride flying creatures c
 
 A Nightveil specter is created when the [[House Dimir#Mind Mage|mind magic]] of House Dimir erases a person's identity, leaving a mind so broken it can no longer live. Thus, Nightveil specters have no memory of their previous lives, and they are just clever enough to follow their orders with some amount of creativity. They pursue their assigned tasks with fearless determination.
 
-If a gloamwing is killed, its specter becomes fixated on destroying those responsible. If the specter survives, it can create a new gloamwing over the course of a month, during which time the specter is incapacitated.
+If a gloamwing is killed, its specter becomes fixated on destroying those responsible. If the specter survives, it can create a new gloamwing over the course of a month, during which time the specter is [[incapacitated]].
 ![[Pasted image 20251001132124.png]]

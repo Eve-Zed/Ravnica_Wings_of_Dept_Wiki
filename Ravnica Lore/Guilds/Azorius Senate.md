@@ -4,9 +4,10 @@ tags:
 aliases:
   - Azorius
   - The Senate
+  - The High Judges
 ---
-> _Officer Lavinia stood before the enormous double doors that led into the highest spire of New Prahv, the lair of the guildmaster. To look at her, nothing would seem out of place: her cape spilled elegantly from her officer's armour, her sword shone like a decorative piece one would hang above a mantel, and her three-sided medals displayed her district-spanning rank._
-
+The Azorius Senate is the white/blue guild from [[Ravnica]]. They represent the executive, legislative and judicative force. Their ideals are Law and Order above all else.
+![[Pasted image 20251007173842.png]]
 Bringing order from chaos—that is the mission of the Azorius Senate. Without the extensive legal code crafted and enforced by the Azorius, society would crumble, transforming [[Ravnica]] into a field of rubble where the [[Gruul Clans|Gruul]] and the [[Cult of Rakdos|Rakdos]] do whatever they please. The Azorius carry this weighty responsibility with stoic pride, and they perform their work of legislation, investigation, and enforcement with steely determination.
 
 The first guildmaster of the Azorius Senate was a sphinx named [[Azor I|Azor]]. He was the author of the original Guildpact, as well as the creator of the elaborate contingency plan that resulted in the creation of the [[Jace Beleren|Living Guildpact]]. The Azorius Senate was meant to carry on his legacy by serving as the legislative body of Ravnica.
@@ -34,26 +35,29 @@ The first guildmaster of the Azorius Senate was a sphinx named [[Azor I|Azor]]. 
 - [[New Prahv]] (current)
 # Inside the Senate
 The Azorius Senate is supported by three branches, called columns, each led by an arbiter (also called a capital). The capitals of the three columns form the Triumvirate, which advises the guildmaster, [[Isperia|Supreme Judge Isperia]], an ancient and wise sphinx.
-## The Sova Column 
-It consists of judges and the extensive legal apparatus surrounding them. It is tasked with adjudicating and arbitrating the effects of the law. The column employs legal aides, pages, librarians, experts on precedent, advocates for the accused, public prosecutors, and judges. The arbiter of the Sova Column is [[Leonos II]].
-## The Jelenn Column
-This column writes and enacts the laws of Ravnica, involving the efforts not just of the designated legislators like senators, but also a network of bureaucrats: aides, writers, researchers, lobbyists, clerks, and so on. The Jelenn Column is led by a [[Vedalken]] [[lawmage]] named [[Uzana]].
-## The Lyev Column
-The Lyev Column enforces the law as Ravnica's police force. The many-leveled hierarchy of the Lyev Column includes arresters, investigators, officers, lawmages and ministers. The Azorius military, which belongs to this Column, can be broadly separated into hussars (mounted soldiers) and infantry. Arresters specialise in preventing or stopping things from happening. The Lyev Column is also venturing into the work of managing surveillance and precognition. The hussar commander [[Agmand Sarv]] is the arbiter of the Lyev Column.
+![[Sova Column]]
+![[Jelenn Column]]
+![[Lyev Column]]
 ## Goals of the Azorius
 The Azorius Senate's ultimate goal is the perfection of society. They want to protect the people of [[Ravnica]] and foster a community of peace and harmony. A society's values, they contend, are reflected in the laws it creates. Something is good if it is lawful. To the Azorius, the highest virtue is a society built on stability and order, and the guild's elaborate system of laws is structured to prevent wrongdoing first and foremost, even at the expense of certain liberties. The Azorius can act as a benevolent proactive force that keeps evildoers in check, but it can also act as an oppressive bureaucratic force that stifles freedom and expression.
 
 In the absence of the [[Jace Beleren|Living Guildpact]], the Azorius are uncertain who is supposed to maintain balance among the [[Ravnican guilds|guilds]]. As a group, they are convinced that the system can't be disrupted, but they are challenged by the reality that the one person who is meant to hold their world together never seems to be around. The Azorius Senate is invoking emergency powers with increasing frequency, and the Lyev Column's enforcers are wielding an ever-growing amount of influence.
 
-The Azorius guild embraces the belief that Ravnican society has come too far to succumb to chaos. Civilization can be saved only through the guidance of a strong, safety-focused government. In the mind of the Azorius, the threat of chaos is imminent. They believe it is time to face facts and do whatever is necessary to protect the people and preserve the force of law.
+The Azorius guild embraces the belief that Ravnican society has come too far to succumb to chaos. Civilisation can be saved only through the guidance of a strong, safety-focused government. In the mind of the Azorius, the threat of chaos is imminent. They believe it is time to face facts and do whatever is necessary to protect the people and preserve the force of law.
 
 The Azorius, as always, see agents of disorder as their greatest enemies. They have cracked down on the [[Gruul Clans]] and imposed a variety of creatively written laws outlawing that guild's presence in as many public places as possible. The Azorius also abhor the satirical shows of the [[Cult of Rakdos|Rakdos]] (in part because the Azorius are frequently ridiculed by Rakdos performers) and attempt to curb them with new decrees about public performances. In response to attempts by other guilds to edge their way around the system, the Azorius routinely create new laws to support or countermand old ones.
+
+# History
+
 # Azorius Members
+## Species and Creatures
 Most creatures associated with the Azorius Senate are humanoids (largely [[Human|humans]] and [[Vedalken|vedalken]]) and various others that serve as familiars, pets, and mounts. Owls are popular familiars, since they are viewed as symbols of wisdom and sound judgment. [[Sphinx|Sphinxes]] and [[Archon|archons]] are the rare nonhumanoids that play a significant role in the leadership and operation of the guild.
 
 Azorius [[Lawmage|lawmages]] craft one-eyed [[Homunculus|homunculi]] to perform menial tasks in Azorius buildings.
-## Joining the Azorius Senate
-As a recruit to the Azorius Senate, you were quickly immersed in the law. You might have clerked for a judge or a legislator, been an apprentice to a practitioner of law magic, studied rhetoric with diplomats, or trained to patrol the streets and enforce the law. As your training comes to an end and your adventuring career begins, you must decide whether to focus on law enforcement or to operate primarily within the bureaucracy of the senate.
+### Sphinxes of Judgement
+Azorius [[Sphinx|sphinxes]], known as sphinxes of judgment, wield [[Hieromancer|Hieromancy]]—the power of law magic—with the force of a judge's gavel to imprison criminals and compel truth from them.
+## Classes and Roles
+
 ## Law Enforcement
 Most Azorius adventurers belong to the guild's police force. They are soldiers or spellcasters who patrol the city in teams or singly, preventing crimes or stopping them in progress. If you want to pursue a career in law enforcement, choose the path of the lawmage, the precognitive mage, or the arrester.
 ### [[Lawmage|Lawmages]]
@@ -93,15 +97,6 @@ Because of its authoritarian, overreaching grasp, the Azorius Senate's relations
 
 - **[[Simic Combine|Simic]]**. "The Simic experiment with matters that disobey the laws of nature and the laws of Ravnica. We must not let them gain influence."
 
-# NPCs
-- [[Agmand Sarv]] - [[Human]] - Arbiter of the Lyev Column, Hussar Commander
-- [[Bruvac]] - [[Human]] - Judge
-- [[Geetra]] - [[Human]] - [[Precognitive Mage]]
-- [[Isperia]] - [[Sphinx]] - Grand Arbiter, Guildmaster
-- [[Lavinia]] - [[Human]] - Guild Champion, Arrester, Steward of the [[Guildpact]]
-- [[Leonos II]] - [[Human]] - Arbiter of the Sova Column, former guildmaster
-- [[Uzana]] - [[Vedalken]] - Arbiter of the Jelenn Column
-# Players
-- [[Laucian]] - [[Half-Elf]] - Enchanter Wizard, [[Lawmage]]
-- [[Valanya Tindóme]] - [[Tiefling]] - Twilight Domain Cleric, [[Lawmage]]
+# Azorius Characters
+![[Ravnica Base.base#List of Azorius Characters]]
 
