@@ -2,6 +2,9 @@
 tags:
   - Species
   - Construct/Thrull
+aliases:
+  - Thrulls
+Creature Type: Construct
 ---
 # Orzhov Thrulls
 When the [[Orzhov Syndicate]] rips a soul from its body to create a [[spirit]], the cast-off remains go to the [[Fleshmage|fleshmages]], who use their necromantic magic to liquefy the corpse and transform it into something useful. These creations become thrulls, obedient slaves that serve in a variety of menial roles: labourers, messengers, beasts of burden, and even fashion accessories for the elite. Whatever tasks they perform, they wear faceplates forged from devalued coinage to conceal their ghastly features.

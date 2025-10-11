@@ -4,6 +4,7 @@ tags:
   - Undead/Vampire
 aliases:
   - Vampires
+Creature Type: Undead
 ---
 Vampires are creatures of the night, they are ageless [[Undead|undead]] beings who subsist on the blood of the living. They are fierce predators who mask their ravenous thirst behind a facade of sophistication and sensuality. Those who sip blood from golden chalices are no less voracious than those who tear out their victims' throats with their fangs; they just hide it better.
 # Blood Drinker Vampire
@@ -21,6 +22,4 @@ The founder of [[House Dimir]], [[Szadek]], was the first of the so-called mind 
 Thanks to their particular gifts, mind drinkers are often placed as leaders of small cells of covert [[House Dimir|Dimir]] operatives. They rarely trust their own agents, though, and often follow their cell members to make sure those members carry out missions as ordered. The most suspicious vampires might even siphon thoughts from their subordinates to detect any hint of betrayal.
 ![[Pasted image 20251001130052.png]]
 # List of Vampires
-- [[Etrata]] - [[House Dimir|Dimir]] guild champion, assassin - alive
-- [[Szadek]] - [[House Dimir|Dimir]] [[parun]] - deceased
-- [[Vosk]] - [[House Dimir|Dimir]] guild champion, detective - alive
+![[Ravnica Base.base#List of Vampires]]

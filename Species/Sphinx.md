@@ -4,6 +4,7 @@ tags:
   - Monstrosity/Sphinx
 aliases:
   - Sphinxes
+Creature Type: Monstrosity
 ---
 Sphinxes are large and powerful creatures with lion-like bodies, human faces, and feathered wings. Some rival dragons in size and strength.
  
@@ -14,6 +15,4 @@ Azorius sphinxes, known as sphinxes of judgement, wield [[Hieromancer|hieromancy
 A few Sphinxes are aligned with [[House Dimir]] and also count as nightmares.
 ![[Pasted image 20251001130916.png]]
 # List of Sphinxes
-
-- [[Azor I]] - [[Planeswalker|planeswalker]], [[Azorius Senate|Azorius]] [[parun]] - missing, assumed dead
-- [[Isperia]] - [[Azorius Senate|Azorius]] guildmaster - alive
+![[Ravnica Base.base#List of Sphinxes]]

@@ -2,6 +2,8 @@
 tags:
   - Species
   - Giant
+aliases:
+  - Giants
 ---
 
 Giants are towering beings with humanlike shapes. The giants of Ravnica are aligned to five [[Ravnican guilds|guilds]]. The [[Golgari Swarm|Golgari]] are known to reanimate their corpses as servants for their own.

@@ -4,6 +4,7 @@ tags:
   - Humanoid/Human
 aliases:
   - Humans
+Creature Type: Humanoid
 ---
 Humans are a scant majority among the peoples of [[Ravnica]], dominating some [[Ravnican guilds|guilds]] and barely represented in others. As on other worlds, they are innovators, achievers, and pioneers whose daring and adaptability make them capable of great things—and great falls.
 

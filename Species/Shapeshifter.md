@@ -5,6 +5,8 @@ tags:
 aliases:
   - Doppelganger
   - Shapechanger
+  - Shapeshifters
+Creature Type: Monstrosity
 ---
 Shapeshifters are a loosely-defined group of beings capable of assuming other shapes and forms, often imitating other beings.
 # Humanoids

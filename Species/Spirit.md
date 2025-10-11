@@ -6,6 +6,7 @@ aliases:
   - Ghost
   - Spirits
   - Ghosts
+Creature Type: Undead
 ---
 Ravnican spirits come in several variants, some mirroring the species they were in life, others twisted into near animalistic forms. Since the spirits of the departed usually stay active on the plane, the denizens have learned to cope with their existence, usually by leaving them small offerings to avoid their wrath. Others find themselves harassed by [[Goblin|goblins]]. Ways to ensure a spirit does not rise is to pay the exorbitant fee for a Proper Burial conducted by the guilds.
 

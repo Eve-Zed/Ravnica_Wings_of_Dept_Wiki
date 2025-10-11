@@ -2,6 +2,9 @@
 tags:
   - Species
   - Undead/Wraith
+aliases:
+  - Wraiths
+Creature Type: Undead
 ---
 Wraiths are spectral evils, life-hungry embodiments of malice and terror. Arising from the souls of tyrants, moments of catastrophic pain, or magical blasphemies, wraiths spread suffering and the torment of undeath. [[Humanoid|Humanoids]] that die near a wraith might be entrapped by the foul spirit and rise as [[Specter|specters]] bound to the wraith's sinister will.
 
@@ -16,6 +19,6 @@ A wraith can embody
 - The memory of a tragedy.
 - A profane idea or foul piece of lore.
 - The torment of one or more suffering souls.
-- The viciousness of a profane Artifact.
+- The viciousness of a profane Artefact.
 - The vile dreams of a slumbering [[Fiend|fiend]].
 ![[Pasted image 20250930130115.png]]

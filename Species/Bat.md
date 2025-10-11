@@ -2,8 +2,10 @@
 tags:
   - Species
   - Beast/Bat
+aliases:
+  - Bats
+Creature Type: Beast
 ---
-
 Bats  are primarily associated with the [[Orzhov Syndicate]]. They are used as assassins and messengers.
 
 Giant bats are also used as mounts by the [[Golgari Swarm]], particularly by the guild's hunters.

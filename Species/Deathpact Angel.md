@@ -5,6 +5,9 @@ tags:
   - Species
 aliases:
   - Deathpact Angels
+Guild: Orzhov
+Creature Type: Celestial
+Sub Type: Angel
 ---
 Deathpact angels dwell in the grandest of [[Orzhov Syndicate|Orzhov]] cathedrals, where they surround themselves with wealth and wretched vassals that are utterly in their thrall.
 
@@ -18,4 +21,7 @@ Those who receive favors from a deathpact angel incur a debt that they carry wit
 A deathpact angel can give an indentured spirit a clause to escape its bound servitude: if the angel ever dies, the indentured spirit can sacrifice its undead existence to restore the angel to life. Upon seeing the angel drop dead, an indentured spirit can destroy itself, its debt discharged as it dissipates, after which the angel returns to life.
 
 ![[Pasted image 20251006183525.png]]
+# List of Deathpact Angel
+![[Ravnica Base.base#List of Deathpact Angels]]
+# Statblock (DM only)
 ![[Deathpact Angel Statblock]]

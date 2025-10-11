@@ -2,6 +2,9 @@
 tags:
   - Species
   - Undead/Specter
+aliases:
+  - Specters
+Creature Type: Undead
 ---
 Specters are bodiless, life-devouring [[Spirit|spirits]] drawn to darkness and negative emotions. Having lost all connection to the beings they once were, these hateful spirits drain mortal essence to steal fleeting tastes of life and warmth.
 

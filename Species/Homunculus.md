@@ -2,6 +2,9 @@
 tags:
   - Species
   - Construct/Homunculus
+aliases:
+  - Homunculi
+Creature Type: Construct
 ---
 Homunculi (Latin: "little person") are artificially made, but sentient and living, miniature humans. These creatures are used for menial or dangerous tasks. Many homunculi just have one cyclopic eye.
 

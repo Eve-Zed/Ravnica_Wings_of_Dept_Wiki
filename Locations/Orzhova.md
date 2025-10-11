@@ -9,6 +9,9 @@ aliases:
   - Cathedral Opulent
   - Church of Deals
   - Orzhov Guildhall
+Guild: Orzhov
+Location: Tenth District
+Sub Location: First Precinct
 ---
 Orzhova is the guildhall of the [[Orzhov Syndicate]], and the seat of their council of ghosts - the [[Obzedat]]. It is located on the western edge of [[Tenth District Plaza]].
 

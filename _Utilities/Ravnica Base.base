@@ -1,18 +1,5 @@
 views:
   - type: table
-    name: Table
-    filters:
-      and:
-        - file.hasTag("Humanoid/Human")
-    order:
-      - file.name
-      - tags
-  - type: cards
-    name: Card
-    cardSize: 230
-    imageFit: ""
-    image: file.file
-  - type: table
     name: List of Humans
     filters:
       and:
@@ -41,3 +28,97 @@ views:
     columnSize:
       file.name: 116
       note.Title: 336
+  - type: table
+    name: List of Angel Archetypes
+    filters:
+      and:
+        - file.folder == "Species"
+        - note["Sub Type"] == "Angel"
+    order:
+      - file.name
+      - Guild
+      - Creature Type
+    columnSize:
+      file.name: 198
+      note.Guild: 116
+  - type: table
+    name: List of Angels
+    filters:
+      and:
+        - file.folder == "Characters"
+        - Species.contains("Angel")
+    order:
+      - file.name
+      - Guild
+      - Title
+      - Status
+    columnSize:
+      file.name: 130
+      note.Guild: 107
+      note.Title: 320
+  - type: table
+    name: List of Celestials
+    filters:
+      and:
+        - file.folder == "Species"
+        - note["Creature Type"] == "Celestial"
+        - note["Sub Type"].isEmpty()
+  - type: table
+    name: List of Deathpact Angels
+    filters:
+      and:
+        - file.folder == "Characters"
+        - Species == "Deathpact Angel"
+  - type: table
+    name: List of Sphinxes
+    filters:
+      and:
+        - file.folder == "Characters"
+        - Species.contains("Sphinx")
+    order:
+      - file.name
+      - Guild
+      - Title
+      - Status
+    columnSize:
+      file.name: 131
+      note.Guild: 93
+      note.Title: 287
+  - type: table
+    name: List of Undead
+    filters:
+      and:
+        - file.folder == "Species"
+        - note["Creature Type"] == "Undead"
+        - note["Sub Type"].isEmpty()
+  - type: table
+    name: List of Vampires
+    filters:
+      and:
+        - file.folder == "Characters"
+        - Species.contains("Vampire")
+    order:
+      - file.name
+      - Guild
+      - Title
+      - Status
+    sort: []
+    columnSize:
+      file.name: 125
+      note.Guild: 113
+      note.Title: 340
+  - type: table
+    name: List of Vedalken
+    filters:
+      and:
+        - file.folder == "Characters"
+        - Species.contains("Vedalken")
+    order:
+      - file.name
+      - Guild
+      - Title
+      - Status
+    columnSize:
+      file.name: 138
+      note.Guild: 128
+      note.Title: 314

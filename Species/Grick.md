@@ -2,6 +2,9 @@
 tags:
   - Species
   - Aberration/Grick
+aliases:
+  - Gricks
+Creature Type: Aberration
 ---
 Gricks are wormlike predators that burst from hiding—flailing and snapping—to consume whatever prey passes near. They hide in cavernous crags or amid deadfalls, the scattered bones and possessions of past meals the only evidence of their threat.
 

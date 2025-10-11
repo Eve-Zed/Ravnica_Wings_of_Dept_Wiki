@@ -2,6 +2,9 @@
 tags:
   - Species
   - Undead/Shadow
+aliases:
+  - Shadows
+Creature Type: Undead
 ---
 Shadows are incorporeal [[Undead]] that feed on life. They resent the living for possessing the potential and vitality lost to them.
 
