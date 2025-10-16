@@ -1,0 +1,36 @@
+---
+tags:
+  - Selesnya
+  - Humanoid/Elf
+  - NPC
+Species: Elf
+Guild: Selesnya
+Title: Priest, Guild Champion
+Status: Alive
+---
+Emmara Tandris is an [[Elf]], high-ranking priest of the [[Selesnya Conclave]].
+
+Emmara is tall, slim, and graceful, and usually wears shimmering green dresses. She has pointed ears, pale eyes, and a mass of golden hair. She is a close friend to [[Jace Beleren]] but understood that he was never going to be able to settle on [[Ravnica]]. That's why she believed the world needed a replacement for the Living Guildpact. She is one of the most active advocates of cooperation between the [[Ravnican guilds]]. Emmara has a way of interrupting that doesn't seem rude.
+
+Emmara was one of the highest-ranking members of the Selesnya Conclave to survive the riots that tore the guild down following the [[Guildpact#Decamillennial Celebration|dissolution of the Guildpact]]. She moved on without much trouble, making her living as a powerful healer, earning enough to eventually move to the mansion district [[Ovitzia]]. She lived in comfort, attended by tiny construct dolls she made in the veritable artificial forest that stood inside her manor. It was here, in the upper echelons of Ravnican society that she met a young telepath named [[Jace Beleren|Berrim]]. The two quickly became casual friends, seeing each other every so often. However, that friendship would end up costing her more trouble than she could have possibly anticipated.
+###### The Secretist
+With the return of the guilds, Emmara was called back to serve by [[Trostani]] herself. The guildmaster commanded Emmara to look into the activity of the [[Izzet League]] and discover what they could be searching for. Trostani granted Emmara command over the conclave's [[Elemental|elementals]] to provide her with as much support as she might need and Emmara accepted the position. Her first action was to visit Jace, knowing that he had returned to the [[Tenth District]] after traveling abroad for some time. However, he had no intention of helping the Conclave, thinking it too dangerous for Emmara to get involved in whatever the Izzet was playing at. Unfortunately, they were both in danger already. [[House Dimir]] had already followed Emmara, and she had led them right to Jace.
+
+Jace eventually did discover what the Izzet were after, but the secrets he had discovered proved too much and he sent an apology to Emmara, telling her he planned to erase his memory of the entire thing. Emmara rushed down to the inn he was staying at just in time for him to begin, and she was left helpless as she watched him destroy his knowledge. Her troubles just continued to compound, however, when the [[Cult of Rakdos]] showed up looking for Jace and herself, having been manipulated by the Dimir.
+
+She voluntarily went with them, knowing that it was important to get them as far from Jace as possible. They took her to the [[undercity]] before she broke free of them, and hid in the [[Golgari Swarm|Golgari]] controlled areas of the sewers. Jace, his memory of the [[Implicit Maze]] erased, eventually tracked her there, but he was ambushed by [[Varolz]]. Using her power over elementals, she saved her friend, but with both of their prizes together, the Dimir struck, attacking them both in one fell swoop.
+
+[[Vosk]] gravely wounded Emmara and only driven off by Jace's loss of memory. After tending their wounds, the pair headed back to [[Vitu-Ghazi]]. When they arrived, Emmara was received warmly and Jace with suspicion. Jace was introduced to Emmara's paramour, [[Captain Calomir]]. Emmara's abduction had sparked hostility within the guild, spearheaded by Calomir. Jace, feeling put upon tried to read the man, only to discover he couldn't. Jace warned against listening to the captain, but his suspicions were ill-received, and he was quickly thrown from Conclave territory.
+
+Emmara returned to her abode, to find it teeming with Selesnyan soldiers, ostensibly there for her protection. She confronted Calomir about it, but he deftly shut her down, dismissing her fears with saber-rattling of his own. Emmara went to confer with [[Trostani]] over it all but found herself the lone voice in a song calling for war. With no choice, trapped by her commitment to the guild, she agreed to summon the greater elementals of the Selesnyan Conclave.
+
+The forces of the Selesnyans marched to war against the Rakdos and caught in the frenzy, and the manipulations of the [[House Dimir|Dimir]], they drove their army straight into the ranks of the [[Boros Legion]]. As battle erupted around her, Emmara began to understand the flaws inherent in the Conclave, the inability of the guild to think outside itself. Trostani seized control of Emmara's elementals and commanded them to war. The Conclave's forces were met by the Rakdos and began to attack each other fervently, but the battle was interrupted as [[Niv-Mizzet]] made a district-wide announcement, revealing very nearly every secret behind the Implicit Maze. Emmara was taken into custody and accused of treason against the guild. She desperately reached out to Jace, and in touch with his mind, she learned that [[Lazav]] had taken Calomir's place months ago. Heartbroken, she begged Jace not to break contact, but the situation was quickly taken out of his hands. Before he went, he gave her everything he knew about the maze's route and told her that she had to be chosen as the maze runner.
+
+Imprisoned by her guild, she lured Lazav and managed to expose him, but in doing so, she sowed dissent amongst the unity of her guild. Two of the Three minds behind Trostani directed enmity at her for this, and when she arrived at the start of the maze, Jace was her only companion. Along with her friend, she managed to make her way most of the way through the maze until the pair were confronted by [[Ral Zarek]] at the Izzet Guildgate. There, the other [[planeswalker]] forced Jace to reveal the depths of his lies to his friend, and feeling betrayed, she was allowed through the gate while Ral and Jace began their arcane duel.
+
+Arriving at the Rakdos guildgate, she was confronted by [[Exava]], still furious over her earlier defeat. Exava ranted at Emmara, who stood alone against the onslaught as Exava summoned [[Demon|demons]] to attack her. She managed to weather the attack, but all the reward she would receive was to be dealt with by [[Rakdos]] himself. As the demonic guild master loomed over her, ready to strike, [[Trostani]] arrived with reinforcements, apologetic for the trials Emmara had suffered.
+
+Arriving at the Forum of [[Azor I|Azor]] along with the other maze runners, she fell under Lazav's influence again. The champions began to fight and as the Maze was about to activate and wipe the guilds and tenth district from the world, Jace intervened with his telepathy and saved them.
+
+Several days later, Emmara visited her friend. She congratulated him and granted him a kiss, an apology for everything that had happened between them, however, she came with a request as well. Her knowledge of the worlds outside Ravnica and who Jace was, was tearing her apart inside. She asked him to erase that memory from her mind, and sadly, Jace acquiesced. She offered him her assistance at any time and left, none the wiser for what she'd asked Jace to do.
+![[Pasted image 20251015142726.png]]

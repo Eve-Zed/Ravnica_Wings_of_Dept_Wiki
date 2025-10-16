@@ -57,7 +57,7 @@ views:
       note.Guild: 107
       note.Title: 320
   - type: table
-    name: List of Celestials
+    name: List of Celestial Species
     filters:
       and:
         - file.folder == "Species"
@@ -105,8 +105,8 @@ views:
     sort: []
     columnSize:
       file.name: 125
-      note.Guild: 113
-      note.Title: 340
+      note.Guild: 90
+      note.Title: 213
   - type: table
     name: List of Vedalken
     filters:
@@ -122,3 +122,161 @@ views:
       file.name: 138
       note.Guild: 128
       note.Title: 314
+  - type: table
+    name: List of Shapeshifters
+    filters:
+      and:
+        - file.folder == "Characters"
+        - Species.contains("Shapeshifter")
+    order:
+      - file.name
+      - Guild
+      - Title
+      - Status
+    columnSize:
+      file.name: 125
+      note.Guild: 111
+      note.Title: 340
+  - type: table
+    name: List of Spirits
+    filters:
+      and:
+        - file.folder == "Characters"
+        - Species.contains("Spirit")
+    order:
+      - file.name
+      - Guild
+      - Title
+      - Status
+    columnSize:
+      file.name: 147
+      note.Guild: 93
+      note.Title: 340
+  - type: table
+    name: List of Sphinx Archetypes
+    filters:
+      and:
+        - file.folder == "Species"
+        - note["Sub Type"].contains("Sphinx")
+    order:
+      - file.name
+      - Guild
+      - Creature Type
+    columnSize:
+      file.name: 189
+      note.Guild: 116
+  - type: table
+    name: List of Dimir Characters
+    filters:
+      and:
+        - file.folder == "Characters"
+        - Guild == "Dimir"
+        - Status.contains("Alive")
+    order:
+      - file.name
+      - Species
+      - Title
+    columnSize:
+      file.name: 125
+      note.Species: 122
+      note.Title: 340
+  - type: table
+    name: List of Orzhov Characters
+    filters:
+      and:
+        - file.folder == "Characters"
+        - Guild == "Orzhov"
+        - or:
+            - Status.contains("Alive")
+            - Status.contains("Undead")
+    order:
+      - file.name
+      - Species
+      - Title
+    columnSize:
+      file.name: 165
+      note.Species: 149
+      note.Title: 296
+  - type: table
+    name: List of Parun
+    filters:
+      and:
+        - file.folder == "Characters"
+        - Title.contains("Parun")
+    order:
+      - Guild
+      - file.name
+    columnSize:
+      note.Guild: 139
+      file.name: 154
+  - type: table
+    name: List of Selesnya Characters
+    filters:
+      and:
+        - file.folder == "Characters"
+        - Guild == "Selesnya"
+        - Status.contains("Alive")
+    order:
+      - file.name
+      - Species
+      - Title
+    columnSize:
+      file.name: 137
+      note.Species: 164
+  - type: table
+    name: List of Dryads
+    filters:
+      and:
+        - file.folder == "Characters"
+        - Species.contains("Dryad")
+    order:
+      - file.name
+      - Guild
+      - Title
+      - Status
+    sort: []
+    columnSize:
+      file.name: 147
+      note.Guild: 93
+      note.Title: 243
+  - type: table
+    name: LIst of Awakened Plant Types
+    filters:
+      and:
+        - file.folder == "Species"
+        - note["Sub Type"].contains("Awakened Plant")
+  - type: table
+    name: List of Plant Species
+    filters:
+      and:
+        - file.folder == "Species"
+        - note["Creature Type"].contains("Plant")
+    columnSize:
+      file.name: 352
+  - type: table
+    name: List of Elemental Species
+    filters:
+      and:
+        - file.folder == "Species"
+        - note["Creature Type"].contains("Elemental")
+        - note["Sub Type"].isEmpty()
+  - type: table
+    name: List of Elf Species
+    filters:
+      and:
+        - file.folder == "Species"
+        - note["Sub Type"].contains("Elf")
+  - type: table
+    name: List of Elves
+    filters:
+      and:
+        - file.folder == "Characters"
+        - Species.contains("Elf")
+    order:
+      - file.name
+      - Guild
+      - Title
+      - Status
+    columnSize:
+      file.name: 166
+      note.Title: 289

@@ -48,28 +48,24 @@ The Azorius guild embraces the belief that Ravnican society has come too far to 
 The Azorius, as always, see agents of disorder as their greatest enemies. They have cracked down on the [[Gruul Clans]] and imposed a variety of creatively written laws outlawing that guild's presence in as many public places as possible. The Azorius also abhor the satirical shows of the [[Cult of Rakdos|Rakdos]] (in part because the Azorius are frequently ridiculed by Rakdos performers) and attempt to curb them with new decrees about public performances. In response to attempts by other guilds to edge their way around the system, the Azorius routinely create new laws to support or countermand old ones.
 
 # History
-
 # Azorius Members
 ## Species and Creatures
-Most creatures associated with the Azorius Senate are humanoids (largely [[Human|humans]] and [[Vedalken|vedalken]]) and various others that serve as familiars, pets, and mounts. Owls are popular familiars, since they are viewed as symbols of wisdom and sound judgment. [[Sphinx|Sphinxes]] and [[Archon|archons]] are the rare nonhumanoids that play a significant role in the leadership and operation of the guild.
+Most creatures associated with the Azorius Senate are [[Humanoid|humanoids]] (largely [[Human|humans]] and [[Vedalken|vedalken]]) and various others that serve as familiars, pets, and mounts. [[Owl|Owls]] are popular familiars, since they are viewed as symbols of wisdom and sound judgement. [[Sphinx|Sphinxes]] and [[Archon|archons]] are the rare non-humanoids that play a significant role in the leadership and operation of the guild.
 
 Azorius [[Lawmage|lawmages]] craft one-eyed [[Homunculus|homunculi]] to perform menial tasks in Azorius buildings.
-### Sphinxes of Judgement
-Azorius [[Sphinx|sphinxes]], known as sphinxes of judgment, wield [[Hieromancer|Hieromancy]]—the power of law magic—with the force of a judge's gavel to imprison criminals and compel truth from them.
+![[Sphinx of Judgement]]
 ## Classes and Roles
-
+Recruits to the Azorius Senate are quickly immersed in the law. They might have clerked for a judge or a legislator, been an apprentice to a practitioner of law magic, studied rhetoric with diplomats, or trained to patrol the streets and enforce the law. As their training comes to an end they decide whether to focus on law enforcement or to operate primarily within the bureaucracy of the senate.
 ## Law Enforcement
-Most Azorius adventurers belong to the guild's police force. They are soldiers or spellcasters who patrol the city in teams or singly, preventing crimes or stopping them in progress. If you want to pursue a career in law enforcement, choose the path of the lawmage, the precognitive mage, or the arrester.
-### [[Lawmage|Lawmages]]
-As a spellcaster in the Azorius Senate, you use your magic to compel or restrain malefactors and scofflaws. You might also use your magic to protect Azorius soldiers and innocent bystanders from harm. In any case, you're called a lawmage, and you can aspire to the title of justiciar and then deputy as your standing within the guild increases.
-### [[Precognitive Mage|Precognitive Mages]]
-If you are a spellcaster with some ability to glimpse the future, you can use this ability to try to prevent crime before it occurs, serving as a precognitive mage. These mages occupy a small niche on the periphery of the guild, and the guild hasn't developed a bureaucratic structure to accommodate them, so they advance through the same ranks as lawmages.
-### Arresters
-As a martial character, you can serve as an arrester in the Azorius Senate. Arresters maintain the peace by removing threats—both actual and potential—identified through regular patrols, citizen reports, and occasionally alerts from the Precognitive Mage|precognitive mages. As you gain the respect of your superiors, you can be promoted to the rank of officer or imperator.
+The Azorius Law Enforcement consists of soldiers and spell casters who patrol the city in teams or singly, preventing crimes or stopping them in progress. Those who pursue a career in law enforcement, choose the path of the lawmage, the precognitive mage, or the arrester.
+![[Lawmage (Azorius)]]
+![[Precognitive Mage]]
+![[Arrester]]
+
 ## Bureaucracy
-Bureaucracy might seem like the opposite of adventure, but it is possible to immerse yourself in the life of a civil servant in the Azorius Senate and still live an adventurous life. You might be a mild-mannered judge's clerk or scribe who got caught up in a whirlwind chain of events beyond your control, or you might moonlight as a vigilante in defiance of the law you are supposed to uphold. Or you could serve a diplomatic function as an elocutor.
-### Elocutors
-As a skilled orator and diplomat, you can put your talents to use in the guild as an elocutor. The Azorius are known for their measured, patient speech, and the elocutors are the primary voice through which the senate communicates with the other guilds and the people of Ravnica. Thus, you might serve as an emissary from the Azorius to another guild, working to settle trade or territorial agreements, temporary alliances, and the like. You might have the task of securing the support of key senators for a particular piece of legislation or treaty. Well-established elocutors can be rewarded with the rank of scribe or emissary.
+Bureaucracy might seem like the opposite of adventure, but it is possible to immerse oneself in the life of a civil servant in the Azorius Senate and still live an adventurous life. They are a mild-mannered judge's clerk or scribe who got caught up in a whirlwind chain of events beyond your control, or moonlight as a vigilante in defiance of the law you are supposed to uphold. Or they can serve a diplomatic function as an elocutor.
+![[Elocutor]]
+
 # Enemies and Allies
 As far as the Azorius are concerned, every other guild in Ravnica is hastening along the road to anarchy. Even other guilds that are inclined toward order (such as the [[Boros Legion|Boros]], [[Orzhov Syndicate|Orzhov]], and [[Selesnya Conclave|Selesnya]]) are ignoring or exploiting the law.
 

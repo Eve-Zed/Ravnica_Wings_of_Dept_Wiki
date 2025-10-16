@@ -1,0 +1,5 @@
+---
+tags:
+  - Dimir
+---
+[[House Dimir|Dimir]] mind mages are among the most feared spellcasters in [[Ravnica]], thanks in large part to the aura of mystery that shrouds them and their work. Their ability to read and alter memories commands respect from the other members of House Dimir and makes them useful in the full spectrum of the guild's activities. Many mind mages lead cells of their own.

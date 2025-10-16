@@ -14,5 +14,7 @@ Azorius sphinxes, known as sphinxes of judgement, wield [[Hieromancer|hieromancy
 
 A few Sphinxes are aligned with [[House Dimir]] and also count as nightmares.
 ![[Pasted image 20251001130916.png]]
+# List of Sphinx Archetypes
+![[Ravnica Base.base#List of Sphinx Archetypes]]
 # List of Sphinxes
 ![[Ravnica Base.base#List of Sphinxes]]

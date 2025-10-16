@@ -14,3 +14,5 @@ Among the guilds, the [[Azorius Senate|Azorius]], [[Orzhov Syndicate|Orzhov]], a
 
 [[Agyrem]] acted as the quarter for the ghosts of the departed. Even after the Guildpact broke, its laws still held sway there.
 ![[Pasted image 20251001130211.png]]
+# List of Spirits
+![[Ravnica Base.base]]
