@@ -10,6 +10,7 @@ Creature Type: Celestial
 Sub Type: Angel
 ---
 Deathpact angels dwell in the grandest of [[Orzhov Syndicate|Orzhov]] cathedrals, where they surround themselves with wealth and wretched vassals that are utterly in their thrall.
+The angels of the [[Orzhov Syndicate]] are those that are dissatisfied with the way the Legion works. If an angel begins to doubt the purity of her mission and her doubts are allowed to fester into cynicism, the [[Orzhova|Church of Deals]] is always ready to welcome them, luring them with status, respect and power. Orzhov angels are empty voids whose only fulfilment comes from the performance of duty. They may act as executioners, commanders or pontiffs, but more often tend to carve out their own unique roles in the guild. They act without mercy, and appear only on special occasions such as high ceremonies, where they inspire awe and fear in onlookers.
 
 ###### Gift Givers 
 Posing as a beneficent god, a deathpact angel attracts petitioners who beg the [[angel]] for blessings: wealth, prestige, health, revenge, and the like. Imagining itself generous and merciful, the angel usually tries to grant the petitioners what they seek by using its abilities, drawing from its hoard of riches, or extorting favors from other members of the guild. True to the spirit of the Orzhov, though, the angel doesn't bestow these gifts out of kindness, but for the sake of gaining fanatical followers who owe it life debts.

@@ -11,7 +11,6 @@ The Azorius Senate is the white/blue guild from [[Ravnica]]. They represent the 
 Bringing order from chaos—that is the mission of the Azorius Senate. Without the extensive legal code crafted and enforced by the Azorius, society would crumble, transforming [[Ravnica]] into a field of rubble where the [[Gruul Clans|Gruul]] and the [[Cult of Rakdos|Rakdos]] do whatever they please. The Azorius carry this weighty responsibility with stoic pride, and they perform their work of legislation, investigation, and enforcement with steely determination.
 
 The first guildmaster of the Azorius Senate was a sphinx named [[Azor I|Azor]]. He was the author of the original Guildpact, as well as the creator of the elaborate contingency plan that resulted in the creation of the [[Jace Beleren|Living Guildpact]]. The Azorius Senate was meant to carry on his legacy by serving as the legislative body of Ravnica.
-
 # Quick Overview
 **Colours**: White, Blue
 **[[Parun]]**: [[Azor I]]
@@ -46,7 +45,6 @@ In the absence of the [[Jace Beleren|Living Guildpact]], the Azorius are uncerta
 The Azorius guild embraces the belief that Ravnican society has come too far to succumb to chaos. Civilisation can be saved only through the guidance of a strong, safety-focused government. In the mind of the Azorius, the threat of chaos is imminent. They believe it is time to face facts and do whatever is necessary to protect the people and preserve the force of law.
 
 The Azorius, as always, see agents of disorder as their greatest enemies. They have cracked down on the [[Gruul Clans]] and imposed a variety of creatively written laws outlawing that guild's presence in as many public places as possible. The Azorius also abhor the satirical shows of the [[Cult of Rakdos|Rakdos]] (in part because the Azorius are frequently ridiculed by Rakdos performers) and attempt to curb them with new decrees about public performances. In response to attempts by other guilds to edge their way around the system, the Azorius routinely create new laws to support or countermand old ones.
-
 # History
 # Azorius Members
 ## Species and Creatures
@@ -56,16 +54,14 @@ Azorius [[Lawmage|lawmages]] craft one-eyed [[Homunculus|homunculi]] to perform 
 ![[Sphinx of Judgement]]
 ## Classes and Roles
 Recruits to the Azorius Senate are quickly immersed in the law. They might have clerked for a judge or a legislator, been an apprentice to a practitioner of law magic, studied rhetoric with diplomats, or trained to patrol the streets and enforce the law. As their training comes to an end they decide whether to focus on law enforcement or to operate primarily within the bureaucracy of the senate.
-## Law Enforcement
+### Law Enforcement
 The Azorius Law Enforcement consists of soldiers and spell casters who patrol the city in teams or singly, preventing crimes or stopping them in progress. Those who pursue a career in law enforcement, choose the path of the lawmage, the precognitive mage, or the arrester.
 ![[Lawmage (Azorius)]]
 ![[Precognitive Mage]]
 ![[Arrester]]
-
-## Bureaucracy
+### Bureaucracy
 Bureaucracy might seem like the opposite of adventure, but it is possible to immerse oneself in the life of a civil servant in the Azorius Senate and still live an adventurous life. They are a mild-mannered judge's clerk or scribe who got caught up in a whirlwind chain of events beyond your control, or moonlight as a vigilante in defiance of the law you are supposed to uphold. Or they can serve a diplomatic function as an elocutor.
 ![[Elocutor]]
-
 # Enemies and Allies
 As far as the Azorius are concerned, every other guild in Ravnica is hastening along the road to anarchy. Even other guilds that are inclined toward order (such as the [[Boros Legion|Boros]], [[Orzhov Syndicate|Orzhov]], and [[Selesnya Conclave|Selesnya]]) are ignoring or exploiting the law.
 
@@ -92,7 +88,6 @@ Because of its authoritarian, overreaching grasp, the Azorius Senate's relations
 - **[[Selesnya Conclave|Selesnya]]**. "The Conclave plays by the rules and keeps to itself. Until its members become too numerous, they are of little threat to us."
 
 - **[[Simic Combine|Simic]]**. "The Simic experiment with matters that disobey the laws of nature and the laws of Ravnica. We must not let them gain influence."
-
 # Azorius Characters
 ![[Ravnica Base.base#List of Azorius Characters]]
 

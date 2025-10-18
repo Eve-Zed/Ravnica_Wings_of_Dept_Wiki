@@ -4,7 +4,7 @@ views:
     filters:
       and:
         - file.folder == "Characters"
-        - Species == "Human"
+        - Species.contains("Human")
     order:
       - file.name
       - Guild
@@ -69,6 +69,13 @@ views:
       and:
         - file.folder == "Characters"
         - Species == "Deathpact Angel"
+    order:
+      - file.name
+      - Guild
+      - Title
+      - Status
+    columnSize:
+      note.Title: 333
   - type: table
     name: List of Sphinxes
     filters:
@@ -280,3 +287,51 @@ views:
     columnSize:
       file.name: 166
       note.Title: 289
+  - type: table
+    name: List of Firemane Angels
+    filters:
+      and:
+        - file.folder == "Characters"
+        - Species.contains("Firemane Angel")
+    order:
+      - file.name
+      - Guild
+      - Title
+      - Status
+    columnSize:
+      file.name: 125
+      note.Guild: 114
+      note.Title: 311
+  - type: table
+    name: List of Boros Characters
+    filters:
+      and:
+        - file.folder == "Characters"
+        - Guild == "Boros"
+        - Status.contains("Alive")
+    order:
+      - file.name
+      - Species
+      - Title
+      - Status
+    columnSize:
+      file.name: 93
+      note.Species: 128
+      note.Title: 340
+  - type: table
+    name: List of Tenth District Locations
+    filters:
+      and:
+        - file.folder == "Locations"
+        - Location.contains("Tenth District")
+    order:
+      - file.name
+      - Sub Location
+      - Guild
+    sort:
+      - property: Sub Location
+        direction: ASC
+    columnSize:
+      file.name: 167
+      note.Sub Location: 164
+      note.Guild: 93

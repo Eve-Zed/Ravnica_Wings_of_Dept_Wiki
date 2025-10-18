@@ -42,7 +42,6 @@ They engage in surveillance, theft, sabotage, infiltration, and other kinds of e
 If they are a spellcaster, they have the skills needed to join the ranks of the most feared spell casters on [[Ravnica]]: House Dimir's mind mages. Their basic work and role is the same as any other spy's, but they can learn to pull thoughts and memories from a person's mind, use a target's own thoughts against them, attack their foes' psyches directly to create delusions, or scour enemy minds clean.
 ![[Mind Mage]]
 ![[Thought Spy]]
-
 # Enemies and Allies
 It's hard for a guild built on stealth and secrecy to maintain a positive relationship with any other guild. All [[Ravnican guilds|guilds]] are monitored with suspicion, and they assessed for their current and prospective levels of threat, as well as for their usefulness to House Dimir's schemes. Each cell may foster its own relationships with the other guilds, but it ultimately defers to Dimir's enigmatic leaders to steer overarching strategy.
 
@@ -70,6 +69,5 @@ To House Dimir, every other guild is a potential source of information, its memb
 - **[[Selesnya Conclave|Selesnya]]**. "Strength without guile is perhaps the most dangerous kind. One can't bluff the player who can't conceive of bluffing. Currently, the covert war plays to our strengths; we must ensure that the conclave never becomes conscious of the advantages they possess."
 
 - **[[Simic Combine|Simic]]**. "They are never short of intriguing surprises, so we know they are gearing up for something. Keep eyes inside their organisation to see what their efforts are leading to—but don't be tempted to partake of their enhancements."
-
 # Dimir Characters
 ![[Ravnica Base.base#List of Dimir Characters]]

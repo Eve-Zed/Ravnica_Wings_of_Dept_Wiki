@@ -51,7 +51,6 @@ At the beginning of the association with the Orzhov, new members are regarded as
 ![[Advokist (Orzhov)]]
 ![[Enforcer]]
 ![[Priest (Orzhov)]]
-
 # Enemies and Allies
 A syndicate built on a foundation of exploitation and extortion can't rely on alliances. The Orzhov appreciate certain aspects of other guilds' work and missions, but they treat other guilds as resources to be plundered. In general, the Orzhov view guilds that promote order and stability (Azorius, Boros, and Selesnya) more kindly than guilds that sow chaos and destruction (such as Golgari and Rakdos).
 
