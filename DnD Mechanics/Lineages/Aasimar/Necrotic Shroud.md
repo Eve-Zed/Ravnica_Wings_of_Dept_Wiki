@@ -1,0 +1,1 @@
+Your eyes briefly become pools of darkness, and flightless wings sprout from your back temporarily. Creatures other than your allies within 3m of you must succeed on a Charisma saving throw (DC 8 plus your Charisma modifier and [[Proficiency Bonus]]) or have the [[Frightened]] condition until the end of your next turn.

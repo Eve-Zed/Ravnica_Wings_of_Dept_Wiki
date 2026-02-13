@@ -1,0 +1,1 @@
+You have [[Darkvision]] with a range of 18m.

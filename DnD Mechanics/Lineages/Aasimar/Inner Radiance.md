@@ -1,0 +1,1 @@
+Searing light temporarily radiates from your eyes and mouth. For the duration, you shed [[Bright Light]] in a 3m radius and [[Dim Light]] for an additional 3m, and at the end of each of your turns, each creature within 3m of you takes Radiant damage equal to your [[Proficiency Bonus]].

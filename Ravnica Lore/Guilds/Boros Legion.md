@@ -47,7 +47,7 @@ The Boros Legion employs many different creatures to swell the ranks of its sold
 ## Classes and Roles
 New recruits to the Boros Legion, are sent to the prestigious [[Horizon Military Academy]] for training. Their life there is tempered in the forge of Boros discipline, devotion, and zeal. Their training regimen is deliberately harsh, to weed out the uncommitted. Those who lasted to the end, begin their career ready to put everything they have learned to use in the legion's service. Depending on whether they focused on martial training, studied magic, or pursued both courses, their path will look somewhat different.
 ### Martial Training
-The bulk of the Boros Legion consists of [[human]], [[minotaur]], and [[Goblin]] soldiers. They are a fighters, rangers, or even barbarians.
+The bulk of the Boros Legion consists of [[Human]], [[Minotaur]], and [[Goblin]] soldiers. They are a fighters, rangers, or even barbarians.
 ![[Swiftblade]]
 ### Magical Study
 Spellcasters like evocation wizards or a clerics of the Light Domain, find a place as a combat mage in the Boros Legion, called an embermage. These mages use spells of fire and light to clear the way for the legion's combat troops.

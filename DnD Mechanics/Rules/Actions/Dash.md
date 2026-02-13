@@ -1,0 +1,3 @@
+When you take the Dash action, you gain extra movement for the current turn. The increase equals your [[Speed]] after applying any modifiers. With a [[Speed]] of 9m, for example, you can move up to 18m on your turn if you Dash. If your Speed of 9m is reduced to 4,5m, you can move up to 9m this turn if you Dash.
+
+If you have a special speed, such as a [[Fly Speed]] or [[Swim Speed]], you can use that speed instead of your [[Speed]] when you take this action. You choose which speed to use each time you take it.

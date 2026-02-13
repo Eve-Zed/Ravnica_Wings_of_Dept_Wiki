@@ -1,0 +1,1 @@
+If you have Resistance to a [[Damage Types|damage type]], damage of that type is halved against you (round down). Resistance is applied only once to an instance of damage.

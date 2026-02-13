@@ -27,7 +27,7 @@ Guildmaster: [[Obzedat]]
 **Guild Champion**: [[Teysa Karlov]] (former, currently imprisoned)
 **Guild Hall**: [[Orzhova]]
 # Inside the Syndicate
-The Orzhov are ruled by the iron-fisted [[Obzedat]], a council consisting of the oldest and most powerful [[undead]] oligarchs. A vast hierarchy stretches out beneath them, so most of your interactions with the leadership of the guild are with people (or [[Spirit|spirits]]) who occupy the rank just above yours. This hierarchy has corruption in it at every level, and at any time your superiors might be passing instructions down from on high or just using you to pursue their own agendas of greed and ambition.
+The Orzhov are ruled by the iron-fisted [[Obzedat]], a council consisting of the oldest and most powerful [[Undead]] oligarchs. A vast hierarchy stretches out beneath them, so most of your interactions with the leadership of the guild are with people (or [[Spirit|spirits]]) who occupy the rank just above yours. This hierarchy has corruption in it at every level, and at any time your superiors might be passing instructions down from on high or just using you to pursue their own agendas of greed and ambition.
 
 Orzhov churches and basilicas are scattered across the city, each one led by a ministrant with a staff of knights and syndics. These sites are centres of commerce clothed in the trappings of religion, where lowly borrowers come to seek atonement for their sins—atonement that is given in the form of debt and obligation.
 

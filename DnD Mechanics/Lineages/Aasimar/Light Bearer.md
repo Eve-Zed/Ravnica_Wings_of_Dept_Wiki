@@ -1,0 +1,1 @@
+You know the [[Light]] cantrip. Charisma is your spellcasting ability for it.
